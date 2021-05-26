@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Qingxin Li
 - 👀 I’m interested in trading/analytics/risk
 - 🌱 I’m currently an incoming MSc student at LSE, studying Financial Statistics
-- 📫 How to reach me: q.li98@outlook.com
 
 <!---
 qli98/qli98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
